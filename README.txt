@@ -1,4 +1,4 @@
 official-artwork
 ================
 
-Official logo's of Archwomen
+Official logos of Archwomen
